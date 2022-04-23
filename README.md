@@ -6,8 +6,16 @@ Admin can manage users and user can mange customers.
 # how to run
 - download from github on your local directory (https://github.com/Kind-ekaterina/LoanSystem.git)
 - `composer install`
-- and then you have to install db
-- `php artisan serve`
+- You have to migrate db
+    or you can set up maually. 
+    (download SQl file and then import your database.)
+- seeding
+    
+    `php artisan db:seed`
+ 
+    `php artisan db:seed --class=CreateUserSeeder`
+- Running
+    `php artisan serve`
 
 ![Screenshot_2](https://user-images.githubusercontent.com/86986628/130820536-68ec0c16-4c91-465d-be43-365816307c1e.jpg)
 ![Screenshot_3](https://user-images.githubusercontent.com/86986628/130820545-58672616-1663-418e-8af6-28f0c4da1c3c.jpg)
