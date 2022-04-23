@@ -8,7 +8,7 @@ Admin can manage users and user can mange customers.
 - `composer install`
 - You have to migrate db
     or you can set up maually. 
-    (download SQl file and then import your database.)
+    (download db.sql file and then import your database.)
 - seeding
     
     `php artisan db:seed`
