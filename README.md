@@ -1,7 +1,9 @@
 # LoanSystem
 (Build by laravel)
 There are 3 kind user : Admin, user, customer
-Admin can manage users and user can mange customers. 
+Admin can manage users and user can mange customers.
+This is a loansystem based website. user can lend funds to customers. And have blackbarry and fee, invest.....
+It's have amny function about loan.
 
 # how to run
 - download from github on your local directory (https://github.com/Kind-ekaterina/LoanSystem.git)
