@@ -29,6 +29,7 @@ It's have amny function about loan.
 
 ## Contact Link
 
-[telegram] (https://t.me/ProDev1205)
+If you have any problem or need my help, contact me in here. 
 
+[telegram] (https://t.me/ProDev1205)
 [Skype] (https://join.skype.com/invite/xAHPnMKaZkkk)
